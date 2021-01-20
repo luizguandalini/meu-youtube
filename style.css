@@ -40,7 +40,8 @@ span {
 }
 
 span.personalizado {
- color: greenyellow ;
- font-style: normal;
- font-family: cursive;
+  color: greenyellow;
+  font-style: normal;
+  font-family: cursive;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
