@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: cornsilk;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  color: cornsilk;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: cornsilk;
+  font-style: italic;
+}
+
+span.red {
+  color: red;
+}
+
+span.blue {
+  color: blue;
+}
+
+span {
+  font-style: italic;
+}
