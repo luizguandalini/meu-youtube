@@ -33,3 +33,8 @@ span.blue {
 span {
   font-style: italic;
 }
+
+.embed {
+  position: relative;
+  width: 100%;
+}
