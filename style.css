@@ -38,3 +38,9 @@ span {
   position: relative;
   width: 100%;
 }
+
+span.personalizado {
+ color: greenyellow ;
+ font-style: normal;
+ font-family: cursive;
+}
